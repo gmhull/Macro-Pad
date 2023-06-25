@@ -2,3 +2,4 @@
 .Trashes
 *.txt
 .toml
+.fseventsd
